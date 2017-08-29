@@ -1,3 +1,11 @@
+---
+title: Soyons énumérables - Partie 1
+published: 2015-01-22
+categories: C#/.NET
+tags: .NET, C#
+url: /2015/01/soyons-enumerables-partie-1
+---
+
 # Soyons énumérables
 
 Ces derniers temps je me suis battu à expliquer le fonctionnement des énumérables en .Net (en C# plus précisément) à plusieurs personnes et notamment des conséquences sur des librairies comme LINQ.

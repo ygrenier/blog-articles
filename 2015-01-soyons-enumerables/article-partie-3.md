@@ -1,3 +1,11 @@
+---
+title: Soyons énumérables - Partie 3
+published: 2015-01-23
+categories: C#/.NET
+tags: .NET, C#
+url: /2015/01/soyons-enumerables-partie-3
+---
+
 # LINQ et les énumérables à la chaîne
 
 LINQ est un language de requêtage intégré au language C# ou VB.Net, le propros de cet article n'est pas d'expliquer LINQ en lui-même mais son comportement avec les énumérables. Pour plus d'informations sur LINQ je vous renvoie [à la documentation officielle](https://msdn.microsoft.com/fr-fr/library/bb397926.aspx).

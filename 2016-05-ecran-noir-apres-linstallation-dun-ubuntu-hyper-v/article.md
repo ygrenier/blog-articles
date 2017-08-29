@@ -1,4 +1,11 @@
-<!--2016-05-ecran-noir-apres-linstallation-dun-ubuntu-hyper-v-->
+---
+title: Ecran noir après l’installation d’un Ubuntu sur Hyper-V
+published: 2016-05-10
+categories: Trucs & Astuces
+tags: Hyper-V, Linux
+url: /2016/05/ecran-noir-apres-linstallation-dun-ubuntu-hyper-v
+---
+
 # Ecran noir après l'installation d'un Ubuntu sur Hyper-V
 
 Lors d’une installation d’un Ubuntu sur un Hyper-V, une fois la VM rebootée, un écran noir apparaît ce qui ne vous permet pas de contrôler votre VM.

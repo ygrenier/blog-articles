@@ -1,3 +1,11 @@
+---
+title: C# : Service windows en mode console pour le débogage et l'administration
+published: 2015-04-26
+categories: C#/.NET, Développement
+tags: .NET, C#
+url: /2015/04/c-service-windows-en-mode-console-pour-le-debogage-et-ladministration
+---
+
 # C# : Service windows en mode console pour le débogage et l'administration
 
 Lorsque l’on développe des services Windows en .Net nous sommes très vite confronté au problème du débogage.

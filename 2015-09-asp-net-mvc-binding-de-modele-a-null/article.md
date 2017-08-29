@@ -1,4 +1,11 @@
-<!--2015-09-asp-net-mvc-binding-de-modele-a-null-->
+---
+title: ASP.NET MVC : binding de modèle à "null"
+published: 2015-09-25
+categories: ASP.NET
+tags: ASP.NET, ASP.NET MVC, C#
+url: /2015/09/asp-net-mvc-binding-de-modele-a-null
+---
+
 # ASP.NET MVC : binding de modèle à "null"
 
 Petit rappel des règles de binding de modèle en ASP.NET MVC pour éviter de perdre des heures, comme je viens de le faire ;)

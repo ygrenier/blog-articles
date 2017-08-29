@@ -1,4 +1,11 @@
-<!--/2016/03/pinvoke-utiliser-dll-32bits-64bits-fonction-de-plateforme-mode-any-cpu-->
+---
+title: P/Invoke : utiliser une DLL native 32bits ou 64bits en fonction de la plateforme en mode "ANY CPU"
+published: 2016-03-12
+categories: C#/.NET, Développement
+tags: .NET, C#, P/Invoke
+url: /2016/03/pinvoke-utiliser-dll-32bits-64bits-fonction-de-plateforme-mode-any-cpu
+---
+
 # P/Invoke : utiliser une DLL native 32bits ou 64bits en fonction de la plateforme en mode "ANY CPU"
 
 Lorsqu’on utilise P/Invoke avec une DLL native (via l’attribut DllImport), nous devons forcer la compilation de notre application dans la plateforme de la DLL (32 ou 64 bits). Toutefois on peut avoir la DLL dans les deux plateformes (par exemple Lua 5.3) et vouloir compiler notre application en "Any CPU" et que la DLL soit chargée dans sa bonne version. Ce qui n’est pas possible directement avec DllImport().

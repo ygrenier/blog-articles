@@ -1,5 +1,12 @@
-<!--/2016/06/firebird-et-dotnet-csharp-->
-# Firebird et .NET/C# #
+---
+title: Firebird et .NET/C#
+published: 2016-06-18
+categories: C#/.NET
+tags: .NET, C#, Firebird
+url: /2016/06/firebird-et-dotnet-csharp
+---
+
+# Firebird et .NET/C#
 
 Pour les besoins d’un petit projet j’ai recherché une solution de base de données légère, trouvant que "SQL Express" était surdimensionné pour le besoin. Et c’est là que m’est revenu un nom du fin fond de mes souvenir de développeur Delphi: [Firebird](http://www.firebirdsql.org/).
 

@@ -1,3 +1,13 @@
+---
+title: [ASP.NET Core] Editer les vues Razor embarquées dans une librairie
+published: 2017-06-26
+categories: .NET Core, ASP.NET
+tags: ASP.NET Core, ASP.NET MVC, Razor
+url: /2017/06/asp-net-core-editer-les-vues-razor-embarquees-dans-une-librairie
+---
+
+# [ASP.NET Core] Editer les vues Razor embarquées dans une librairie
+
 En ASP.NET Core on a la possibilité de modulariser son application Web en créant des librairies permettant de partager le code (les contrôleurs, modèles, etc.).
 
 Nous avons également la possibilité d'incorporer des ressources (fichiers script, images, vues Razor) auxquelles on peut ensuite accéder via le fournisseur de fichier [EmbeddedFileProvider](https://docs.microsoft.com/en-us/aspnet/core/api/microsoft.extensions.fileproviders.embeddedfileprovider). En enregistrant ce fournissant dans le moteur Razor, on peut ainsi accéder aux vues qui sont embarquées dans la librarie.

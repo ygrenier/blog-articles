@@ -1,3 +1,13 @@
+---
+title: Nouveautés de C# 7.0
+published: 2017-03-14
+categories: C#/.NET
+tags: C#
+url: /2017/03/nouveautes-de-c-7-0
+---
+
+# Nouveautés de C# 7.0
+
 Avec la sortie de Visual Studio 20017, nous avons eu également le droit à une nouvelle
 version du C#, le C# 7.0, avec son lot de nouveautés.
 

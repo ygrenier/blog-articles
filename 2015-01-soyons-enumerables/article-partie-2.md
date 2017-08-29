@@ -1,3 +1,11 @@
+---
+title: Soyons énumérables - Partie 2
+published: 2015-01-23
+categories: C#/.NET
+tags: .NET, C#
+url: /2015/01/soyons-enumerables-partie-2
+---
+
 # Yield : ou comment perdre quelques neurones
 
 Alors à la fin de la première partie, j'en ai déjà entendus qui ronchonnaient : "bon s'il faut qu'on se cogne un énumérateur à chaque fois qu'on veut un truc particulier, on est pas sorti des ronces". C'est pas faux (côtelette power ;) ) ! En même temps c'est notre boulot :)

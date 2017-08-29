@@ -1,4 +1,11 @@
-<!--2015-11-entity-framework-erreur-the-conversion-of-a-datetime2-data-type-to-a-datetime-data-type-resulted-in-an-out-of-range-value-->
+---
+title: Entity Framework : Erreur "The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value"
+published: 2015-11-22
+categories: C#/.NET, Mode boulet
+tags: Entity Framework
+url: /2015/11/entity-framework-erreur-the-conversion-of-a-datetime2-data-type-to-a-datetime-data-type-resulted-in-an-out-of-range-value
+---
+
 # Entity Framework : Erreur "The conversion of a datetime2 data type to a datetime data type resulted in an out-of-range value"
 
 Bon on est dimanche, et certainement pour cela que mon cerveau est en mode boulet (d’ailleurs j’inaugure une nouvelle catégorie tellement je suis dépité).

@@ -1,4 +1,10 @@
-<!--2015-02-decouverte-du-projet-small-basic-->
+---
+title: Découverte du projet Small basic
+published: 2015-02-18
+categories: Small Basic
+tags: Small Basic
+url: /2015/02/decouverte-du-projet-small-basic
+---
 
 # Découverte du projet Small basic
 

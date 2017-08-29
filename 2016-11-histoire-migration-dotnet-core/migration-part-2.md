@@ -1,3 +1,11 @@
+---
+title: VS: Histoire d’une migration en .Net Core - Partie 2
+published: 2016-11-11
+categories: .NET Core
+tags: .NET Core, C#
+url: /2016/11/histoire-dune-migration-en-dotnet-core-part-2
+---
+
 # Histoire d'une migration en .Net Core - Partie 2
 
 Dans la première partie nous avons effectué la migration de la librairie en elle-même.

@@ -1,4 +1,11 @@
-<!--2016-06-installation-extensions-iis-windows-10-->
+---
+title: Installation d'extensions IIS sur Windows 10
+published: 2016-06-22
+categories: Développement
+tags: IIS, Windows 10, WPI
+url: /2016/06/installation-extensions-iis-windows-10
+---
+
 # Installation d'extensions IIS sur Windows 10
 
 Dans un [précédent article](http://blog.ygrenier.com/2015/11/installer-php-manager-sur-windows-10/) j’expliquais que l’on rencontrait quelques difficultés pour installer "PHP Manager" sur IIS de Windows 10, en particulier nous rencontrons un problème de version de IIS (10 sous Windows 10) que l’installeur ne connaît pas.

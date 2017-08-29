@@ -1,4 +1,11 @@
-<!--/2016/04/asp-net-mvc-rendersection-optionnel-->
+---
+title: ASP.NET MVC: faire un RenderSection() optionnel
+published: 2016-04-18
+categories: ASP.NET, Trucs & Astuces
+tags: ASP.NET MVC, Razor
+url: /2016/04/asp-net-mvc-rendersection-optionnel
+---
+
 # ASP.NET MVC: faire un RenderSection() optionnel
 
 Dans le cadre d’un développement j’ai eu besoin de rendre optionnel un appel à un ```RenderSection()``` dans mon layout (ma section devant être générée selon certaines conditions).

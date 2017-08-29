@@ -1,3 +1,11 @@
+---
+title: VS: Histoire d’une migration en .Net Core - Partie 1
+published: 2016-11-11
+categories: .NET Core
+tags: .NET Core, C#
+url: /2016/11/histoire-dune-migration-en-dotnet-core-part-1
+---
+
 # Histoire d'une migration en .Net Core
 
 A moins que vous ne viviez dans une grotte, vous devez savoir que Microsoft est en train de développer un nouveau framework, totalement réécrit, modulaire, open source, bref que du bon en perspective. Le nom de ce nouveau venu : .Net Core.

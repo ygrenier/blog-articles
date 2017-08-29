@@ -1,4 +1,11 @@
-<!-- /​2015/​11/​installer-​php-​manager-​sur-​windows-​10 -->
+---
+title: ASP.NET MVC : Installer PHP Manager sur Windows 10
+published: 2015-11-20
+categories: Développement
+tags: IIS Express, PHP Manager, Windows 10, WPI
+url: /​2015/​11/​installer-​php-​manager-​sur-​windows-​10
+---
+
 # Installer PHP Manager sur Windows 10
 
 Depuis WPI (Microsoft Web Platform Installer) on peut installer PHP pour IIS (Internet Information Service ou en français Gestionnaire des services Internet) sous Windows. Pour faciliter la gestion de PHP sous IIS généralement on installe un module qui se nomme "PHP Manager".

@@ -1,4 +1,11 @@
-<!--2015-02-ressources-small-basic-->
+---
+title: Ressources Small Basic
+published: 2015-02-18
+categories: Small Basic
+tags: Small Basic
+url: /2015/02/ressources-small-basic
+---
+
 # Ressources Small Basic
 
 Dans un [article précédent](http://blog.ygrenier.com/2015/02/decouverte-du-projet-small-basic/) j’ai parlé de ma découverte du [Small Basic](http://smallbasic.com/). Mais comme j’avais conclu, il y a apriori un manque de ressources en français.

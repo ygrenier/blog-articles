@@ -1,3 +1,11 @@
+---
+title: VS: Débutons avec .NET Core
+published: 2016-11-13
+categories: .NET Core, Développement
+tags: .NET Core, C#
+url: /2016/11/debutons-avec-dotnet-core
+---
+
 # Débutons avec .NET Core
 
 Suite à mes articles précédents sur la [migration d'une librairie en .NET Core ](http://blog.ygrenier.com/2016/11/histoire-dune-migration-en-dotnet-core-part-1/), j'ai reçu des remarques de lecteurs concernant le coté un peu obscure de .NET Core dans mes explications.

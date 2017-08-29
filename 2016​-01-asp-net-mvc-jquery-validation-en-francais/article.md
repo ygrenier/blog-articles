@@ -1,4 +1,11 @@
-<!--/​2016/​01/​asp-​net-​mvc-​jquery-​validation-​en-​francais-->
+---
+title: ASP.NET MVC: jQuery Validation en français
+published: 2016-01-28
+categories: ASP.NET
+tags: ASP.NET MVC, jQuery
+url: /2016/01/asp-net-mvc-jquery-validation-en-francais
+---
+
 # ASP.NET MVC: jQuery Validation en français
 
 ASP.NET MVC nous fourni des mécanismes de validation des informations saisies dans les formulaires. Nous avons deux types de validation:

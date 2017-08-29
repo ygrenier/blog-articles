@@ -1,3 +1,10 @@
+---
+title: VS: Histoire d’une migration en .Net Core 
+published: 2016-11-11
+categories: .NET Core
+tags: .NET Core, C#
+---
+
 # Histoire d’une migration en .Net Core 
 
 Cette série de trois articles décrit le travail de migration de la librairie [SwissEphNet](https://github.com/ygrenier/SwissEphNet) en .Net Core.

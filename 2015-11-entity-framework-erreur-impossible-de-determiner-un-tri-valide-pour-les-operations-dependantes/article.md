@@ -1,4 +1,10 @@
-<!--2015-11-entity-framework-erreur-impossible-de-determiner-un-tri-valide-pour-les-operations-dependantes-->
+---
+title: Entity Framework: Erreur "Impossible de déterminer un tri valide pour les opérations dépendantes."
+published: 2015-11-22
+categories: C#/.NET, Mode boulet
+tags: Entity Framework
+url: /2015/11/entity-framework-erreur-impossible-de-determiner-un-tri-valide-pour-les-operations-dependantes
+---
 
 # Entity Framework: Erreur "Impossible de déterminer un tri valide pour les opérations dépendantes."
 

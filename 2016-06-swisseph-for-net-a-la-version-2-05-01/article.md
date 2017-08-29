@@ -1,4 +1,11 @@
-<!--2016-06-swisseph-for-net-a-la-version-2-05-01-->
+---
+title: SwissEph for .Net à la version 2.05.01 (2.5.1.13)
+published: 2016-06-18
+categories: Projets, SwissEph.Net
+tags: .NET, C#, fr, Swiss Ephemeris
+url: /2016/06/swisseph-for-net-a-la-version-2-05-01
+---
+
 # SwissEph for .Net à la version 2.05.01 (2.5.1.13)
 
 Bonjour,

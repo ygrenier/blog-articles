@@ -1,3 +1,11 @@
+---
+title: VS: SwissEph for .Net à la version 2.06.00 (2.6.0.18)
+published: 2017-02-09
+categories: Projets, SwissEph.Net
+tags: .NET, C#, fr, Swiss Ephemeris
+url: /2017/02/swisseph-for-net-a-la-version-2-06-00
+---
+
 # SwissEph for .Net à la version 2.06.00 (2.6.0.18)
 
 Bonjour,

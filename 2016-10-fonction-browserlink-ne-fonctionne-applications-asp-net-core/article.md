@@ -1,4 +1,11 @@
-<!--2016-10-fonction-browserlink-ne-fonctionne-applications-asp-net-core-->
+---
+title: La fonction BrowserLink ne fonctionne pas avec les applications ASP.NET Core
+published: 2016-10-29
+categories: .NET Core, C#/.NET, Développement
+tags: .NET, .NET Core, C#, Visual Studio
+url: /2016/10/fonction-browserlink-ne-fonctionne-applications-asp-net-core
+---
+
 # La fonction BrowserLink ne fonctionne pas avec les applications ASP.NET Core
 
 Si vous êtes un fidèle de Visual Studio pour faire du développement d’application ASP.NET, vous utilisez certainement l’une des fonctionnalités très intéressante "BrowserLink" qui couplée aux "Web Essentials" rend le développement Web extrêmement pratique.

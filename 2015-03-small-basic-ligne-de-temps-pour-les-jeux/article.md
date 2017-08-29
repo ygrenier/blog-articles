@@ -1,4 +1,11 @@
-<!--/2015/03/small-basic-ligne-de-temps-pour-les-jeux/-->
+---
+title: Small Basic – Ligne de temps pour les jeux
+published: 2015-03-14
+categories: Small Basic
+tags: Small Basic
+url: /2015/03/small-basic-ligne-de-temps-pour-les-jeux
+---
+
 # Small Basic – Ligne de temps pour les jeux
 
 Dans un jeu plusieurs éléments sont généralement synchronisés suivant une ligne de temps. Par exemple une balle se déplaçant de 200 pixels en 2 secondes.

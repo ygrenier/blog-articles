@@ -1,3 +1,13 @@
+---
+title: [xUnit] Après une mise à jour des packages, les tests ne sont plus détectés par Visual Studio
+published: 2017-03-30
+categories: C#/.NET
+tags: .NET, C#, xUnit
+url: /2017/03/xunit-apres-une-mise-a-jour-des-packages-les-tests-ne-sont-plus-detectes-par-visual-studio
+---
+
+# [xUnit] Après une mise à jour des packages, les tests ne sont plus détectés par Visual Studio
+
 J'ai récemment ressorti de la naphtaline un vieux projet (librairie en .Net 4.0), avec une vieille version de [xUnit](https://xunit.github.io/).
 
 Comme je devais améliorer la lib, en profite pour la passer en 4.5, et je met à jour tous les packages Nuget. 

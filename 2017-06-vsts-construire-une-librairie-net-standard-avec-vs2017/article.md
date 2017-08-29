@@ -1,3 +1,13 @@
+---
+title: VSTS – Construire une librairie .NET Standard avec VS2017
+published: 2017-06-09
+categories: .NET Standard, C#/.NET
+tags: .NET Standard, C#, VSTS
+url: /2017/06/vsts-construire-une-librairie-net-standard-avec-vs2017
+---
+
+# VSTS – Construire une librairie .NET Standard avec VS2017
+
 Depuis la sortie de VS2017, nous avons la possibilité de développer plus facilement des librairies .NET Standard (ce qui remplace les PCL désormais).
 
 Si on a l'intention de faire de l'intégration continue avec VSTS (Visual Studio Team Services) pour générer notre librairie (pour la tester ou l'empaqueter par exemple), on fait face à différentes erreurs qui provoque un échec de la compilation.

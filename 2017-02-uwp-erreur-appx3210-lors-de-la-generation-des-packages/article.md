@@ -1,3 +1,13 @@
+---
+title: UWP: Erreur "APPX3210" lors de la génération des packages
+published: 2017-02-04
+categories: UWP
+tags: UWP
+url: /2017/02/uwp-erreur-appx3210-lors-de-la-generation-des-packages
+---
+
+# UWP: Erreur "APPX3210" lors de la génération des packages
+
 Lorsque l'on veut publier une application Universelle, on doit générer les packages. 
 
 Une fois générés, ces packages passent par une "pré-validation" qui, si vous n'avez pas touché à votre manifeste, va détecter que vous n'avez pas modifié les images par défaut.

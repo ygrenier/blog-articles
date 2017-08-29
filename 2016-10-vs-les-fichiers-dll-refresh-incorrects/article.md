@@ -1,4 +1,11 @@
-<!--2016-10-vs-les-fichiers-dll-refresh-incorrects-->
+---
+title: VS: Les fichiers "*.dll.refresh" incorrects
+published: 2016-10-06
+categories: Développement
+tags: Visual Studio
+url: /2016/10/vs-les-fichiers-dll-refresh-incorrects/
+---
+
 # VS: Les fichiers "*.dll.refresh" incorrects
 
 Dans Visual Studio lorsqu’on utilise des projets particuliers comme les "Site Web" qui n’ont pas de fichier de projet (comme un .csproj), pour gérer les DLL venant des packages Nuget, un fichier "*.dll.refresh" et créé pour chaque DLL.

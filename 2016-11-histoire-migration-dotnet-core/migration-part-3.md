@@ -1,3 +1,11 @@
+---
+title: VS: Histoire d’une migration en .Net Core - Partie 3
+published: 2016-11-11
+categories: .NET Core
+tags: .NET Core, C#
+url: /2016/11/histoire-dune-migration-en-dotnet-core-part-3
+---
+
 # Histoire d'une migration en .Net Core - Partie 3
 
 Bien nous avons migré la librairie et les tests unitaires, il nous reste les deux applications console, SweMini et SweTest.

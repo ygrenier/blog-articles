@@ -1,4 +1,11 @@
-<!--2016-10-swisseph-for-net-passe-a-net-core-2-5-1-14-->
+---
+title: SwissEph for .Net passe à .NET Core (2.5.1.14)
+published: 2016-10-27
+categories: Projets, SwissEph.Net
+tags: .NET, C#, fr, Swiss Ephemeris
+url: /2016/10/swisseph-for-net-passe-a-net-core-2-5-1-14
+---
+
 # SwissEph for .Net passe à .NET Core (2.5.1.14)
 
 Bonjour,

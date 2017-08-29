@@ -1,4 +1,11 @@
-<!--2015-04-transtypage-de-valeurs-avec-la-serialisation-xdocument-->
+---
+title: Transtypage de valeurs avec la sérialisation XDocument
+published: 2015-04-07
+categories: C#/.NET
+tags: .NET, C#, XDocument
+url: /2015/04/transtypage-de-valeurs-avec-la-serialisation-xdocument
+---
+
 # Transtypage de valeurs avec la sérialisation XDocument
 
 Depuis sa version 4.0, le Framework .Net nous fourni une nouvelle librairie pour gérer les documents XML: System.Linq.XDocument.

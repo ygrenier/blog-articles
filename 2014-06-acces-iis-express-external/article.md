@@ -1,4 +1,11 @@
-<!--/2014/06/acces-iis-express-external/-->
+---
+title: Accès à IIS Express depuis l'extérieur
+published: 2014-06-20
+categories: ASP.NET
+tags: ASP.NET, IIS Express, Visual Studio
+url: /2014/06/acces-iis-express-external
+---
+
 # Accès à IIS Express depuis l'extérieur
 
 Lors d’un développement ASP.NET sous Visual Studio on utilise IIS Express qui permet de faire du débogage de nos sites Web.
