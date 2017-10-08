@@ -3,7 +3,7 @@ title: Histoire d’une migration en .Net Core - Partie 4
 published: 2017-08-30
 categories: .NET Core
 tags: .NET Core, C#
-url: /2016/08/histoire-dune-migration-en-dotnet-core-part-4
+url: /2017/08/histoire-dune-migration-en-dotnet-core-part-4
 ---
 
 # Histoire d’une migration en .Net Core - Partie 4
